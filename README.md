@@ -1,5 +1,3 @@
-# Tribute-page
-
 # Tribute Page Project
 
 ## Introduction
